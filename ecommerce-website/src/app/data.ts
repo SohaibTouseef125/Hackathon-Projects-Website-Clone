@@ -79,96 +79,112 @@ export const products = [
     name: "Trenton modular sofa",
     price: "25,000.00",
     image: "/assest/Image4.png",
+    link: "/about"
   },
   {
     id: 2,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage16.png",
+     link: "/about"
   },
   {
     id: 3,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage17.png",
+     link: "/about"
   },
   {
     id: 4,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage18.png",
+     link: "/about"
   },
   {
     id: 5,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage19.png",
+     link: "/about"
   },
   {
     id: 6,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage20.png",
+     link: "/about"
   },
   {
     id: 7,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage21.png",
+     link: "/about"
   },
   {
     id: 8,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage22.png",
+     link: "/about"
   },
   {
     id: 9,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage23.png",
+     link: "/about"
   },
   {
     id: 10,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage24.png",
+     link: "/about"
   },
   {
     id: 11,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage25.png",
+     link: "/about"
   },
   {
     id: 12,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage26.png",
+     link: "/about"
   },
   {
     id: 13,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage27.png",
+     link: "/about"
   },
   {
     id: 14,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage28.png",
+     link: "/about"
   },
   {
     id: 15,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage29.png",
+     link: "/about"
   },
   {
     id: 16,
     name: "Granite dining table",
     price: "25,000.00",
     image: "/assest/ShopImage30.png",
+     link: "/about"
   },
   // Add all dummy products here...
 ];

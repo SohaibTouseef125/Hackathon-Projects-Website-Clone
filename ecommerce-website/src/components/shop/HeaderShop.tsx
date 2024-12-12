@@ -26,10 +26,22 @@ const HeaderShop = () => {
           ))}
         </ul>
         <div className="flex items-center justify-center gap-4 items-center">
-        <IoIosContact size={24} className="hover:text-gray-700 cursor-pointer" />
+          <Link href={"/account"}>
+            
+            <IoIosContact
+              size={24}
+              className="hover:text-gray-700 cursor-pointer"
+            />
+          </Link>
           <CiSearch size={24} className="hover:text-gray-700 cursor-pointer" />
           <CiHeart size={24} className="hover:text-gray-700 cursor-pointer" />
-         <CiShoppingCart size={24} className="hover:text-gray-700 cursor-pointer" />
+          
+           <Link href="/cart">
+           <CiShoppingCart
+            size={24}
+            className="hover:text-gray-700 cursor-pointer"
+          />
+       </Link>
         </div>
       </div>
     </nav>
